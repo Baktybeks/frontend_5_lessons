@@ -15,3 +15,23 @@ export const withParamsAction = (title) => {
         payload: title
     }
 }
+
+export const setValueAction = (value) => {
+    return {
+        type: types.VALUE,
+        payload: value
+    }
+}
+
+export const addUserAction = (name) => {
+    return {
+        type: types.ADD_USER,
+        payload: name
+    }
+}
+
+export const deleteUserAction = () => {
+    return{
+        type:types.DELETE_USER,
+    }
+}
