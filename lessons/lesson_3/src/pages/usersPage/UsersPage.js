@@ -7,6 +7,7 @@ function UsersPage() {
 
     const {value,users} = useSelector(state => state.usersReducer)
 
+    console.log(value)
     const changeInput = (event) => {
         dispatch(setValueAction(event.target.value))
     }
