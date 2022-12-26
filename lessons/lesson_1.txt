@@ -1,3 +1,6 @@
 npx create-react-app lesson_1
 npm i redux
 npm i react-redux
+
+npm install redux-logger
+npm install redux-thunk
