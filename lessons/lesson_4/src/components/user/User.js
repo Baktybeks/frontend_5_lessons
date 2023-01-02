@@ -1,6 +1,6 @@
 import React from 'react';
 import {useDispatch} from "react-redux";
-import {fetchUserOneAction} from "../redux/actions/actions";
+import {fetchUserOneAction} from "../../redux/actions/actions";
 
 
 function User({userInfo}) {

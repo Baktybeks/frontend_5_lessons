@@ -1,0 +1,6 @@
+export const types = {
+    ALERT_ON: "ALERT_ON",
+    ALERT_OFF: "ALERT_OFF",
+    PRELOADER_ON: "PRELOADER_ON",
+    PRELOADER_OFF: "PRELOADER_OFF",
+}

@@ -1,7 +1,7 @@
 import React from 'react';
 import {useDispatch, useSelector} from "react-redux";
 import {fetchUsersAction} from "../../redux/actions/actions";
-import User from "../../components/User";
+import User from "../../components/user/User";
 
 function UsersPage() {
 

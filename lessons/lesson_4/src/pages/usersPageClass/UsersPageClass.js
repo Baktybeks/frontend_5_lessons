@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import {connect} from "react-redux";
 import {fetchUsersAction} from "../../redux/actions/actions";
-import User from "../../components/User";
+import User from "../../components/user/User";
 
 class UsersPageClass extends Component {
 
