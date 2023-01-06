@@ -4,12 +4,15 @@ npm i react-router-dom
 
 npm i redux
 npm i react-redux
+npm install @reduxjs/toolkit
+
 
 npm install redux-thunk
 npm install react-bootstrap bootstrap
 
-
-
-
-
 npm install redux-logger
+
+
+npm uninstall <package_name>
+
+
