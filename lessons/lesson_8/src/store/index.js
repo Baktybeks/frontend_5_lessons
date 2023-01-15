@@ -1,5 +1,6 @@
 import {configureStore} from "@reduxjs/toolkit";
 import usersReducer from './usersSlice'
+import preloaderReducer from './preloaderSlice'
 
 
 
@@ -7,6 +8,7 @@ import usersReducer from './usersSlice'
 
 export const store = configureStore({
     reducer: {
-        usersReducer
+        usersReducer,
+        preloaderReducer
     }
 })
