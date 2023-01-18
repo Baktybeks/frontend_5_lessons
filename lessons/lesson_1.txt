@@ -13,6 +13,6 @@ npm install react-bootstrap bootstrap
 npm install redux-logger
 
 
-npm uninstall <package_name>
+npm uninstall mobx-react-lite
 
 
