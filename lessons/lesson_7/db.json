@@ -1,0 +1,194 @@
+{
+  "admin": [
+    {
+      "id": 1,
+      "nickName": "Aiperi Ramankulova",
+      "userName": "@Ramankulova",
+      "name": "Айпери",
+      "direction": "Проектный менеджер"
+    }
+  ],
+  "Android": [
+    {
+      "id": 2,
+      "nickName": "augustine",
+      "userName": "@avgust1n6",
+      "name": "Августин",
+      "direction": "Android"
+    },
+    {
+      "id": 3,
+      "nickName": "Алексей",
+      "userName": "@gordod3",
+      "name": "Алексей",
+      "direction": "Android"
+    },
+    {
+      "id": 4,
+      "nickName": "Argen",
+      "userName": "@ArgenKGS",
+      "name": "Арген",
+      "direction": "Android"
+    },
+    {
+      "id": 5,
+      "nickName": "Baya",
+      "userName": "@rskld_baya",
+      "name": "Байэл",
+      "direction": "Android"
+    },
+    {
+      "id": 6,
+      "nickName": "Cryfrog",
+      "userName": "@cry_frog",
+      "name": "Даниель",
+      "direction": "Android"
+    },
+    {
+      "id": 7,
+      "nickName": "Era",
+      "userName": "@erlaan14",
+      "name": "Эрлан",
+      "direction": "Android"
+    }
+  ],
+  "Backend": [
+    {
+      "id": 8,
+      "nickName": "Aka ;-;",
+      "userName": "@Karabaev_008",
+      "name": "Акбар",
+      "direction": "Backend"
+    },
+    {
+      "id": 9,
+      "nickName": "Акуленок",
+      "userName": "@akylioza",
+      "name": "Акыл",
+      "direction": "Backend"
+    },
+    {
+      "id": 10,
+      "nickName": "aruuke",
+      "userName": "@kanweio",
+      "name": "Арууке",
+      "direction": "Backend"
+    },
+    {
+      "id": 11,
+      "nickName": "Try It",
+      "userName": "@wbcxr",
+      "name": "Нургелди",
+      "direction": "Backend"
+    },
+    {
+      "id": 12,
+      "nickName": "Yasirov",
+      "userName": "@liiimsa",
+      "name": "Салим",
+      "direction": "Backend"
+    },
+    {
+      "id": 13,
+      "nickName": "Скаут",
+      "userName": "@tilek_zet",
+      "name": "Тилек",
+      "direction": "Backend"
+    },
+    {
+      "id": 14,
+      "nickName": "Eldarsky",
+      "userName": "@Flomingo2022",
+      "name": "Элдар",
+      "direction": "Backend"
+    },
+    {
+      "id": 15,
+      "nickName": "Элнура Дубанаева",
+      "userName": "@dubanaevaelen",
+      "name": "Элнура",
+      "direction": "Backend"
+    }
+  ],
+  "Frontend": [
+    {
+      "id": 16,
+      "nickName": "maksatovx",
+      "userName": "@maksatovx",
+      "name": "Айдамир(Айдар)",
+      "direction": "Frontend"
+    },
+    {
+      "id": 17,
+      "nickName": "Бактыбек",
+      "userName": "@SBaktybek",
+      "name": "Бактыбек",
+      "direction": "Frontend"
+    },
+    {
+      "id": 18,
+      "nickName": "Nurdan",
+      "userName": "@IIIIsomeoneIIII",
+      "name": "Нурдан",
+      "direction": "Frontend"
+    },
+    {
+      "id": 19,
+      "nickName": "(.__. )",
+      "userName": "@SmileBonchichi",
+      "name": "Нурдин",
+      "direction": "Frontend"
+    },
+    {
+      "id": 20,
+      "nickName": "yume",
+      "userName": "@kkkyyoo",
+      "name": "Тилек",
+      "direction": "Frontend"
+    }
+  ],
+  "UX": [
+    {
+      "id": 21,
+      "nickName": "Ainazik Abazbekova",
+      "userName": "@aynaziq",
+      "name": "Айназик",
+      "direction": "UX/UI designer"
+    },
+    {
+      "id": 22,
+      "nickName": "Aliya S",
+      "userName": "@aliiast08",
+      "name": "Алия",
+      "direction": "UX/UI designer"
+    },
+    {
+      "id": 23,
+      "nickName": "Kamila",
+      "userName": "@kamg2s",
+      "name": "Камила",
+      "direction": "UX/UI designer"
+    },
+    {
+      "id": 24,
+      "nickName": "Nikolai",
+      "userName": "@Iceman2016",
+      "name": "Николай",
+      "direction": "UX/UI designer"
+    },
+    {
+      "id": 25,
+      "nickName": "Nursultan Cholponbay uulu",
+      "userName": "@nusuch",
+      "name": "Нурсултан",
+      "direction": "UX/UI designer"
+    },
+    {
+      "id": 26,
+      "nickName": "Чынара",
+      "userName": "@ch1nara_1",
+      "name": "Чынара",
+      "direction": "UX/UI designer"
+    }
+  ]
+}

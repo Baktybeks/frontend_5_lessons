@@ -16,3 +16,8 @@ npm install redux-logger
 npm uninstall mobx-react-lite
 
 
+userName
+
+npx json-server -p 4000 db.json
+
+

@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "nickName": "Aiperi Ramankulova",
+    "userName": "@Ramankulova",
+    "name": "Айпери",
+    "direction": "Проектный менеджер"
+  },
+  {
+    "id": 2,
+    "nickName": "augustine",
+    "userName": "@avgust1n6",
+    "name": "Августин",
+    "direction": "Android"
+  },
+  {
+    "id": 3,
+    "nickName": "Алексей",
+    "userName": "@gordod3",
+    "name": "Алексей",
+    "direction": "Android"
+  },
+  {
+    "id": 4,
+    "nickName": "Argen",
+    "userName": "@ArgenKGS",
+    "name": "Арген",
+    "direction": "Android"
+  },
+  {
+    "id": 5,
+    "nickName": "Baya",
+    "userName": "@rskld_baya",
+    "name": "Байэл",
+    "direction": "Android"
+  },
+  {
+    "id": 6,
+    "nickName": "Cryfrog",
+    "userName": "@cry_frog",
+    "name": "Даниель",
+    "direction": "Android"
+  },
+  {
+    "id": 7,
+    "nickName": "Era",
+    "userName": "@erlaan14",
+    "name": "Эрлан",
+    "direction": "Android"
+  },
+  {
+    "id": 8,
+    "nickName": "Aka ;-;",
+    "userName": "@Karabaev_008",
+    "name": "Акбар",
+    "direction": "Backend"
+  },
+  {
+    "id": 9,
+    "nickName": "Акуленок",
+    "userName": "@akylioza",
+    "name": "Акыл",
+    "direction": "Backend"
+  },
+  {
+    "id": 10,
+    "nickName": "aruuke",
+    "userName": "@kanweio",
+    "name": "Арууке",
+    "direction": "Backend"
+  },
+  {
+    "id": 11,
+    "nickName": "Try It",
+    "userName": "@wbcxr",
+    "name": "Нургелди",
+    "direction": "Backend"
+  },
+  {
+    "id": 12,
+    "nickName": "Yasirov",
+    "userName": "@liiimsa",
+    "name": "Салим",
+    "direction": "Backend"
+  },
+  {
+    "id": 13,
+    "nickName": "Скаут",
+    "userName": "@tilek_zet",
+    "name": "Тилек",
+    "direction": "Backend"
+  },
+  {
+    "id": 14,
+    "nickName": "Eldarsky",
+    "userName": "@Flomingo2022",
+    "name": "Элдар",
+    "direction": "Backend"
+  },
+  {
+    "id": 15,
+    "nickName": "Элнура Дубанаева",
+    "userName": "@dubanaevaelen",
+    "name": "Элнура",
+    "direction": "Backend"
+  },
+  {
+    "id": 16,
+    "nickName": "maksatovx",
+    "userName": "@maksatovx",
+    "name": "Айдамир(Айдар)",
+    "direction": "Frontend"
+  },
+  {
+    "id": 17,
+    "nickName": "Бактыбек",
+    "userName": "@SBaktybek",
+    "name": "Бактыбек",
+    "direction": "Frontend"
+  },
+  {
+    "id": 18,
+    "nickName": "Nurdan",
+    "userName": "@IIIIsomeoneIIII",
+    "name": "Нурдан",
+    "direction": "Frontend"
+  },
+  {
+    "id": 19,
+    "nickName": "(.__. )",
+    "userName": "@SmileBonchichi",
+    "name": "Нурдин",
+    "direction": "Frontend"
+  },
+  {
+    "id": 20,
+    "nickName": "yume",
+    "userName": "@kkkyyoo",
+    "name": "Тилек",
+    "direction": "Frontend"
+  }
+]
